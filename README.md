@@ -2,7 +2,7 @@
 
 ### Objective
 
-The primary goal is to establish a robust, multi-server environment to build a Java web application, store the resulting artifact in a repository, and deploy it to a live web server. This guide details a complete CI/CD workflow using Maven for building, Nexus as an artifact repository, and Apache Tomcat for deployment, all hosted on AWS EC2 instances.
+The primary goal is to establish a robust, multi-server environment to build a Java web application, store the resulting artifact in a repository, and deploy it to a live web server. This guide details a workflow using Maven for building, Nexus as an artifact repository, and Apache Tomcat for deployment, all hosted on AWS EC2 instances.
 
 
 ### Environment & Prerequisites
